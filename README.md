@@ -48,9 +48,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Sanchita-Mohanty&icon=0&color=1" />
-</a>
+![snake gif](https://github.com/Sanchita-Mohanty/Sanchita-Mohanty/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
